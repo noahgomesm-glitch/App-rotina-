@@ -1,0 +1,21 @@
+{
+  "id": "./",
+  "name": "Minha Rotina",
+  "short_name": "Rotina",
+  "description": "Acompanhe suas tarefas e hábitos diários.",
+  "lang": "pt-BR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#EEF2F0",
+  "theme_color": "#0E6B58",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
